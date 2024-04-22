@@ -23,7 +23,7 @@ With an intuitive and user-friendly interface, the application is accessible to 
 Built using Electron, the application is compatible with Windows operating systems, providing users with a consistent experience across different devices.
 ## Screenshots
 
-<img src="./screenshots/1.jpg" width="60%" /> <br>
+<img src="./screenshots/1.png" width="60%" /> <br>
 
 
 ## Contributors <a id="contributors"></a>
